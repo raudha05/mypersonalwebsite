@@ -12,7 +12,7 @@ In home section, that shows my name and photo panorama.
 
 In about me, that shows my photo, my name, my nickname, where I come from, my age, my education, my hobbies, and my email.
 
-![rawcun image](/myphoto.jpg)
+[![images.png](https://i.postimg.cc/Twg6wYFB/images.png)](https://postimg.cc/Q98PYsXq)
 
 ## My Web Design
 
