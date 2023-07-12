@@ -6,7 +6,7 @@ My personal website is [rawcun.com](https://rawcun.com) There is contain Home, A
 
 In home section, that shows my name and photo panorama.
 
-![panorama image](/panorama.jpg)
+[![panorama image](https://i.postimg.cc/mrfQsryC/Whats-App-Image-2023-07-09-at-00-43-03.jpg)](https://postimg.cc/w12t5gPj)
 
 ## About Me
 
