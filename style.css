@@ -1,0 +1,72 @@
+@import url("https://fonts.googleapis.com/css2?family=Ingrid+Darling&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Anton&family=Ingrid+Darling&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Aguafina+Script&family=Ingrid+Darling&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Ingrid+Darling&family=Kavoon&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Ingrid+Darling&family=Joti+One&display=swap");
+
+body {
+  background-color: rgb(107, 197, 228);
+}
+.Logo {
+  margin-right: 100px;
+  font-family: "ingrid darling";
+  font-size: 48px;
+  color: rgb(70, 0, 0);
+}
+.nav-1 {
+  margin-left: 1000px;
+  font-family: "anton";
+  font-size: 16px;
+  color: black;
+}
+.nav-2 {
+  margin-left: 10px;
+  font-family: "anton";
+  font-size: 16px;
+  color: black;
+}
+.my-name {
+  color: rgb(154, 69, 23);
+  font-family: "Aguafina Script";
+  font-size: 48px;
+  text-align: center;
+}
+.panorama {
+  display: flex;
+  justify-content: center;
+  width: 1459px;
+  height: 932px;
+}
+.rawcun-photo {
+  display: flex;
+  margin-left: 70px;
+  margin-top: 10px;
+  width: 450px;
+  height: 543px;
+}
+.about-me {
+  color: rgba(164, 81, 42, 0.885);
+  font-family: "Kavoon";
+  margin-left: 50%;
+  font-size: 48px;
+  flex: 1;
+  padding: 10px;
+}
+.text {
+  color: rgb(18, 26, 81);
+  margin-left: 50%;
+  font-family: "Joti One";
+  font-size: 40px;
+  flex: 1;
+  padding: 10px;
+}
+.contact {
+  color: antiquewhite;
+  background-color: #4c8982;
+  font-size: 32px;
+  margin-left: 50%;
+}
+footer {
+  text-align: left;
+  padding: 10px;
+}
