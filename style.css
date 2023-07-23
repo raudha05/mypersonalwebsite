@@ -4,38 +4,62 @@
 @import url("https://fonts.googleapis.com/css2?family=Ingrid+Darling&family=Kavoon&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Ingrid+Darling&family=Joti+One&display=swap");
 
-body {
-  background-color: rgb(107, 197, 228);
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
 }
 .Logo {
   margin-right: 100px;
   font-family: "ingrid darling";
   font-size: 48px;
   color: rgb(70, 0, 0);
+  background-color: rgb(107, 197, 228);
 }
-.nav-1 {
-  margin-left: 1000px;
+.nav {
+  margin: auto;
+  width: 85%;
+  margin-left: 88%;
   font-family: "anton";
   font-size: 16px;
-  color: black;
+  color: rgb(193, 156, 45);
+  background-color: rgb(107, 197, 228);
+  justify-content: space-between;
+  align-items: center;
 }
-.nav-2 {
-  margin-left: 10px;
-  font-family: "anton";
-  font-size: 16px;
-  color: black;
+#section1 {
+  width: 100%;
+  height: 100vh;
+  background-image: url("panorama.jpg");
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  box-sizing: border-box;
 }
-.my-name {
+.raw {
   color: rgb(154, 69, 23);
   font-family: "Aguafina Script";
   font-size: 48px;
   text-align: center;
+  margin-top: 80px;
 }
-.panorama {
-  display: flex;
-  justify-content: center;
-  width: 1459px;
-  height: 932px;
+.uy h2 {
+  color: rgba(164, 81, 42, 0.885);
+  font-family: "Kavoon";
+  margin-left: 50%;
+  font-size: 48px;
+  flex: 1;
+  padding: 10px;
+  padding-left: 30px;
+}
+.uy p {
+  color: rgb(18, 26, 81);
+  margin-left: 50%;
+  font-family: "Joti One";
+  font-size: 40px;
+  flex: 1;
+  padding: 10px;
+  padding-left: 30px;
 }
 .rawcun-photo {
   display: flex;
@@ -44,29 +68,13 @@ body {
   width: 450px;
   height: 543px;
 }
-.about-me {
-  color: rgba(164, 81, 42, 0.885);
-  font-family: "Kavoon";
-  margin-left: 50%;
-  font-size: 48px;
-  flex: 1;
-  padding: 10px;
-}
-.text {
-  color: rgb(18, 26, 81);
-  margin-left: 50%;
-  font-family: "Joti One";
-  font-size: 40px;
-  flex: 1;
-  padding: 10px;
-}
-.contact {
+.uy .contact {
   color: antiquewhite;
   background-color: #4c8982;
   font-size: 32px;
   margin-left: 50%;
 }
-footer {
+#footer {
   text-align: left;
   padding: 10px;
 }
