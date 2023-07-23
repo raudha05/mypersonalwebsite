@@ -46,7 +46,7 @@
 .uy h2 {
   color: rgba(164, 81, 42, 0.885);
   font-family: "Kavoon";
-  margin-left: 50%;
+  margin-left: 15%;
   font-size: 48px;
   flex: 1;
   padding: 10px;
@@ -54,7 +54,7 @@
 }
 .uy p {
   color: rgb(18, 26, 81);
-  margin-left: 50%;
+  margin-left: 15%;
   font-family: "Joti One";
   font-size: 40px;
   flex: 1;
@@ -73,6 +73,7 @@
   background-color: #4c8982;
   font-size: 32px;
   margin-left: 50%;
+  margin-left: 15%;
 }
 #footer {
   text-align: left;
